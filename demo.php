@@ -1,7 +1,4 @@
 <?php 
-/**
- * 
- */
 class Demo
 {
 	private $name,$rollno;
@@ -21,5 +18,5 @@ class Demo
 $obj = new Demo();
 $obj->getData("kuldeep",120);
 $obj->showData();
-
+ 
  ?>
